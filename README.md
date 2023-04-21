@@ -76,7 +76,6 @@ Pillow                 7.2.0
 PyYAML                 5.3.1
 scikit-image           0.17.2
 scipy                  1.5.2
-tensorflow 	       1.15.3 (tensorflow is used only in the logger.py, I will remove this not-necessary dependency soon)
 torch                  1.6.0
 torchvision            0.7.0
 ```
